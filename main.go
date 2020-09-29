@@ -16,9 +16,9 @@ func main()  {
 	case fecha >= 421 && fecha < 521:
 		fmt.Println("tauro")
 	case fecha >= 521 && fecha < 622:
-		fmt.Println("géminis")
+		fmt.Println("geminis")
 	case fecha >= 622 && fecha < 723:
-		fmt.Println("cáncer")
+		fmt.Println("cancer")
 	
 	case fecha >= 723 && fecha < 822:
 		fmt.Println("leo")
