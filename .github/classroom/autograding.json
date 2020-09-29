@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "acuario",
+      "setup": "",
+      "run": "sudo go run main.go",
+      "input": "6\r\n2",
+      "output": "acuario",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "sagitario",
+      "setup": "",
+      "run": "sudo go run main.go",
+      "input": "6\r\n12",
+      "output": "sagitario",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "virgo",
+      "setup": "",
+      "run": "sudo go run main.go",
+      "input": "13\r\n9",
+      "output": "virgo",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "geminis",
+      "setup": "",
+      "run": "sudo go run main.go",
+      "input": "18\r\n6",
+      "output": "geminis",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
